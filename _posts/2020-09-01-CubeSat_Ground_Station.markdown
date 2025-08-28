@@ -8,7 +8,7 @@ The GAS team, USU's amatuer satellite design team was the first design team I as
 
 During my time on the team, I quickly got promoted to the communications team lead just 3 months after joining. My main duty was building a functional ground station to communicate with the GASPACS cubesat which launched in December 2021.
 
-![Alt text](..\photos\GasPacsPhotos\0525210901.jpg "Optional title")
+![Alt text](../photos/GasPacsPhotos/0525210901.jpg)
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
