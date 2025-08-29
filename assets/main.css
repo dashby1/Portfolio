@@ -201,10 +201,11 @@ float: right;
 }
 
 #CSGS2  {
-float: left;    
- margin: 0 15px 0 ;
+float: right;    
+ margin: 0 0 0 15px;
 }
 
 #CSGSV1 {
-  scale: 0.2 ;
+float: left;    
+ margin: 0 15px 0 ;
 }
