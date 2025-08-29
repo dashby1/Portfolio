@@ -15,9 +15,6 @@ During my time on the team, I quickly got promoted to the communications team le
 My first responisbilities on the team was to make a link budget for the radio transmissions. This was challenging as I had no experience or knowledge about satellite communication, RF theory, or radios for that matter. Luckilly for me, making the link budget was relativley simple as I came to learn it was just the sum of all the decibel gains and losses of the system, which the main loss be easily calculated easily from the planned altitude of mission and most of the gains can be found on any amplifier and antenna datasheet which we already had.
 
 I also 
-<video width="320" height="240" controls>
-  <source src="https://dashby1.github.io/Portfolio/photos/GasPacsPhotos/0422212234.mp4" type="video/mp4">
-</video>
 
 
 Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
