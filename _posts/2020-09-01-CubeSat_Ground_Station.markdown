@@ -15,7 +15,7 @@ During my time on the team, I quickly got promoted to the communications team le
 My first responisbilities on the team was to make a link budget for the radio transmissions. This was challenging as I had no experience or knowledge about satellite communication, RF theory, or radios for that matter. Luckilly for me, making the link budget was relativley simple as I came to learn it was just the sum of all the decibel gains and losses of the system, which the main loss be easily calculated easily from the planned altitude of mission and most of the gains can be found on any amplifier and antenna datasheet which we already had.
 
 
-<video src="https://dashby1.github.io/Portfolio/photos/GasPacsPhotos/RotorVideo (1).mp4"  id="CSGSV1" width="1080" height="1350" controls></video>
+<video src="https://dashby1.github.io/Portfolio/photos/GasPacsPhotos/RotorVideo.mp4"  id="CSGSV1" width="540" height="675" controls></video>
 I also designed and built a controller interface board which takes in serial input from a PC and triggers an antenna rotor to move. This allowed us to controll the rotor with a few dollars worth of components rather than spending a few hundred dollars for an ots rotor controller. This being my first electronics project ever, i am still very proud of it. The video to the left shows and initial protoype and testing, only one direction is hooked up, Once this was shown to work I hooked up all 4 direction controlls (+/- azimuth and +/- elevation). The program uploaded to the arduino is a lighly modified version of the [K3NG project](https://blog.radioartisan.com/arduino_rotator_controller/) which was very convienient as it has live satellite tracking built in which simplified the setup immensly.
 
 
