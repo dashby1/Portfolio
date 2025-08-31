@@ -121,6 +121,11 @@ table td { border: 1px solid #e8e8e8; }
 /** Posts */
 .post-header { margin-bottom: 30px; }
 
+.front_image {
+  height: 100px;
+  width: 600px;
+}
+
 .post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; }
 @media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
 
@@ -232,6 +237,10 @@ float: left;
  height: auto;
 }
 
+.portfolioText {
+  color: #818181;
+  width: 300px;
+}
 .sidenav {
   height: 100%;
   width: 320px;

@@ -1,14 +1,7 @@
 ---
 layout: default
 ---
-<!-- Side navigation -->
-<div class="sidenav">
-  <img src="https://dashby1.github.io/Portfolio/photos/About Me/GradPhoto.jpg" id="aboutPhoto">
-  <a href="#">About</a>
-  <a href="#">Services</a>
-  <a href="#">Clients</a>
-  <a href="#">Contact</a>
-</div>
+
 
 <div class="home">
   {%- if page.title -%}
@@ -18,7 +11,7 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Projects" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
@@ -28,6 +21,7 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
+          <img src="{{post.image | relative_url}}" class="front_image">
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}

@@ -2,7 +2,7 @@
 layout: post
 title:  "CubeSat Ground Station"
 date:   2020-09-01 01:23:46 -0700
-# image: /photos/GasPacsPhotos/0525210901.jpg
+image: photos\GasPacsPhotos\0525210901.jpg
 categories: projects
 ---
 The GAS team, USU's amatuer satellite design team was the first design team I as a part of when I went to USU. I joined almost immediatley during my freshman year in the fall of 2020 and stayed until March of 2022.
