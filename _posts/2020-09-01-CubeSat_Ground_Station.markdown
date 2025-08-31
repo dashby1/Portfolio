@@ -19,16 +19,10 @@ My first responisbilities on the team was to make a link budget for the radio tr
 I also designed and built a controller interface board which takes in serial input from a PC and triggers an antenna rotor to move. This allowed us to controll the rotor with a few dollars worth of components rather than spending a few hundred dollars for an ots rotor controller. This being my first electronics project ever, i am still very proud of it. The video to the left shows and initial protoype and testing, only one direction is hooked up, Once this was shown to work I hooked up all 4 direction controlls (+/- azimuth and +/- elevation). The program uploaded to the arduino is a lighly modified version of the [K3NG project](https://blog.radioartisan.com/arduino_rotator_controller/) which was very convienient as it has live satellite tracking built in which simplified the setup immensly.
 
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+With a RTL-SDR stick, a cheap low noise amplifier, and a hand held dual HF/UHF yagi antenna, I as able to gather downlinks from noaa and goes satellites and even a few transmissions from the ISS. Putting this recieving setup on a cart with the antenna rotor, a much larger antenna, and a portable power supply we had a mobile ground station that we could store inside but also make quick changes to our setup. 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Near the middle of the summer of 2021 we got a room with roof access and made a permanent setup and ground station/comms room for satellite transmissions. With this we updated our LNA to one with much higher gain and with an outdoor rating, a HF/UHF dueplexer, and a much larger coax cable. In addition we also setup our groundstation with the satnogs groundstation network which can be seen [here](https://network.satnogs.org/stations/2550/)
+
+The main purpose of this ground station was to recieve transmissions from the GASPACS cubesat and I also think it was to meet a grant requirement? The GASPACS cubesat was setup to transmit on 437.365 MHz suing GFSK modulation. It also transmitted an audio beacon of a clip of the USU Scotsman every few minutes. In December of 2021, the GASPACS cubesat was launched to the ISS and was deployed from the ISS the following January. Right after the deployent we were able to get confirmation that the satellite was operating by the audio beacon. Soon after we were able to transmit commands and get downlinks of telemetry data and images.
 
 <img src="https://dashby1.github.io/Portfolio/photos/GasPacsPhotos/0525210901.jpg" width="200" height="300" id="CSGS2">
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/

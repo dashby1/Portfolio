@@ -208,4 +208,6 @@ float: right;
 #CSGSV1 {
 float: left;    
  margin: 0 15px 0 ;
+ width: 33%;
+ height: auto;
 }
