@@ -21,7 +21,16 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-          <img src="{{ post.image | relative_url - }}" class="front_image">
+          
+          <!-- <img src="{{ post.image | relative_url - }}" class="front_image"> -->
+          <div class="Banner">
+            <img src="{{ post.image | relative_url - }}" alt="Avatar" class="Banner_image">
+              <div class="overlay">
+                <div class="banner_text">
+                  {{ post.description | escape }}
+                </div>
+              </div>
+          </div>
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
