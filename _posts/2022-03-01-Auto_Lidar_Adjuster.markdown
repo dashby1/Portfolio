@@ -2,7 +2,9 @@
 layout: post
 title:  "Auto Lidar Adjuster"
 date:   2022-02-01 01:23:46 -0700
+image: /photos/LidarPhotos/LabLaser.jpg
 categories: projects
+
 ---
 
 
