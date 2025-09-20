@@ -7,6 +7,7 @@ description: "I designed the mechanical system for the 125 kW t-type inverters f
 categories: projects
 ---
 
+<img src="{{ "/photos/T-typePhotos/17 - 1.2_Megawatt Static WPT_ T-type Mechanical design and part optimization-1.png" | relative_url }}">
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
