@@ -3,12 +3,11 @@ layout: post
 title:  "Cahn-Hilliard Simulation"
 date:   2022-06-01 01:23:46 -0700
 image: /photos/CahnHiliardPhotos/exampleoutput(Banner).jpg
-description: "Under the guidance of a faculty member in the USU Mathematics department, I wrote code to simulate fluid flow of a binary phase fluid using the Chahn-Hilliard equation."
+description: "Under the guidance of a faculty member in the USU Mathematics department, I wrote code to simulate fluid flow of a binary phase fluid using the Cahn-Hilliard equation."
 categories: projects
 ---
-The GAS team, USU's amatuer satellite design team was the first design team I as a part of when I went to USU. I joined almost immediatley during my freshman year in the fall of 2020 and stayed until March of 2022.
 
-During my time on the team, I quickly got promoted to the communications team lead just 3 months after joining. My main duty was building a functional ground station to communicate with the GASPACS cubesat which launched in December 2021.
+WIP
 
 ![Alt text](https://dashby1.github.io/Portfolio/photos/GasPacsPhotos/0525210901.jpg)
 <img src="https://dashby1.github.io/Portfolio/photos/GasPacsPhotos/0525210901.jpg" width="200" height="300">

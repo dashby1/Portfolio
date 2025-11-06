@@ -7,7 +7,7 @@ description: "I designed, built, and programmed an auto adjusting system for the
 categories: projects
 
 ---
-
+ WIP: Details to come
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
