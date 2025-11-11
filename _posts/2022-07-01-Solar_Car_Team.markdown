@@ -12,7 +12,7 @@ categories: projects
 ### Year 1 (2022)
 I got the idea to start the USU solar car team, Aggie Solar Racing, when I went to see the American Solar Challenge finish in Twin Falls, ID, that year. Here are some pictures of that event:
 
-<img src="..\photos\ASR_Photos\2022ASC_1.jpg" height="265"  id="ASR1">
+<img src="../photos/ASR_Photos/2022ASC_1.jpg" height="265"  id="ASR1">
 <img src="..\photos\ASR_Photos\2022ASC_2.jpg" width="200"  id="ASR1">
 
 Needless to say, I was hooked. Within the next week, I got some of my buddies together at USU and we formed the Aggie Solar Racing team at USU. We would meet during the rest of the summer to try and make headway on the team and car but none of us really knew what we were doing.
