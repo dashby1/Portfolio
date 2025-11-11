@@ -260,6 +260,19 @@ float: left;
  height: auto;
 }
 
+#ASR1 {
+float: left;    
+ margin: 0 15px 0 0;
+ height: auto;
+}
+
+#ASR2 {
+float: left;    
+ margin: 0 15px 0 0;
+ height: auto;
+}
+
+
 /* About Me side bar */
 
 #aboutPhoto {
