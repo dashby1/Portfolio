@@ -8,6 +8,14 @@ categories: projects
 ---
 
 ### Overview
+<b>Objective:</b> The main objective of this project was to design and build a solar powered car that passes scrutineering at the Formula Sun Grand Prix collegiate solar car competition.
+
+<b> Challenges:</b> The biggest and most difficult challenge I ran into was forming and keeping the team operational. Many students don't want to join a design team when there isn't physical progress being made which lead into a pretty difficult negative feadback loop for me to get out of (no solar car -> low recruitment -> slow progress -> low recruitment). Eventually we overcame this hurdle and while I was on the team, the team grew from just me to ~20 active members (an active member being a student that shows up close to every week and makes progress on assigned tasks)
+
+Another Challenge was the amount of information I needed to know about everything solar car. As the team lead, many of the team members expected me to know the asnwers to their questions on how their design should look, how it should perform, etc. Obviuously, One person can't possibly know everything there is to know about a solar car but knowing just enough about everything to get a team member started on their own path to learning their respective subsystem was essential. This was also benefical as it allowed me to see how all the subsystems interacted and provided a smoother time when integrating them.
+
+<b>Outcomes:</b> Although the solar car wasn't all the way completed by the time I departed (this was expected and common for new teams) The team is still operational. I've learned a lot from this project, too much too put in this summary paragraph, the most technical thing I've learned was increasing my CAD and simulation skills to a level where I am confident I could teach others to put together informative CFD and FEA analysis. The thing I probably learned to most however was managing the team and keeping the project on track.
+
 
 ### Year 1 (2022)
 I got the idea to start the USU solar car team, Aggie Solar Racing, when I went to see the American Solar Challenge finish in Twin Falls, ID, that year. Here are some pictures of that event:
@@ -32,7 +40,7 @@ This semster started of by attending the 2023 Solar car conference online. This 
 
 No new members joined this semester evern though a large focus was at the start of the semester was recruitment. 
 
-I went an bought a cheap motor and controller from amazon (I think it was a Vevor 2kW motor meant for an ebike or something). During this fall break, I and Tim met up and got a redumentary system to control our motor with. Here is a video of it working (essentially it just linearly ramped up to a predetermined speed when a button was pressed and then back down when released, we were able to also able to load custom ramping profiles as well)
+I went an bought a cheap motor and controller from amazon (I believe it was a Vevor 2kW motor meant for an ebike). During this fall break, Tim and I met up and got a redumentary system to control our motor with. Here is a video of it working (essentially it just linearly ramped up to a predetermined speed when a button was pressed and then back down when released, we were able to also able to load custom ramping profiles as well)
 <video src="https://dashby1.github.io/Portfolio/photos/ASR_Photos/ASRV1.mp4"  id="CSGSV1" width="540" height="675" controls></video>
 
 Near the end of the semester, I decide to go and try and spectate the 2023 FSGP in Kansas that summer. We also got our first high school student(?!?!), Mitchell, to join the team (he was set to graduate in a month and was wondering what he could do to prepare to be on the team, which I promptly said he could be on the team right them if he wanted to be). I remebered that the KU team was located about a 30-45 minute drive away from the track so I messaged them about a week or 2 before the race asking if any of them were going and if they wanted to hangout and go do something as they probably wouldn't be competing. To my suprise, the team lead said that they never ended up reforming and that our team could have the car. I rented (probably the only reasonabley priced) trailer availabe (an aluminum flatbed trailer, which was a mistake, always get an enxlosed trailer when transoorting fragile vehicles, more on this later). Mitchell and I drove to Kansas watched the race and talked with teams and most importantly Picked up our new car!
@@ -55,6 +63,7 @@ We ended up cutting off and ditching the old shell of the car for a few reasons:
 During the summer, the senior capstone professor actually reached out to our team asking our team if we wanted to make any part of our car into a capstone project, which I replied sure as it was essentially free money and captive members. The capstone project I chose to list was a new shell for the car.
 
 ### Capstone Experience 1
+
 
 
 ### Year 3 (2024)
