@@ -64,7 +64,11 @@ During the summer, the senior capstone professor actually reached out to our tea
 
 ### Capstone Experience 1
 
+The first capstone experience I had was apart of I was the main customer/advisor and 4 Mechanical Engineering Seniors were assigned to me and the project. The project that I assigned to the capstone members was to design and fabricate a composite shell the the car that achieved lower drag than the previous shell which was inherited from the KU team. A lot of my work was approving designs and giving guidance where needed. The capstone class was split into 2 semesters with the first semester being primarily design and the second being primarily fabrication.
 
+The first semster was full of running CFD simulations, scaled wind tunnel tests and characterizing different designs and interating on them
+
+The second semester was finalizing the design and learning a lot about composite work
 
 ### Year 3 (2024)
 
